@@ -1,0 +1,74 @@
+body{
+    background-color: hsl(30, 38%, 92%);
+}
+.attribution { 
+    font-size: 1.5rem;
+    text-align: center;
+    font-family: 'Montserrat', sans-serif;
+
+     
+}
+    .attribution a {
+         color: hsl(228, 45%, 44%);
+         text-decoration: none;
+         font-family:'Satisfy', cursive ;
+ }
+
+h1{
+    font-family: 'Fraunces', serif;
+    color: hsl(212, 21%, 14%);
+}
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color:  hsl(228, 12%, 48%);
+    text-decoration: solid;
+
+}
+p{
+    color:  hsl(228, 12%, 48%);
+    font-size: 14px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+img{
+    width: 50%;
+    float: left;
+    margin-right: 30px;
+    border-top-left-radius: 15px;
+    border-bottom-left-radius: 15px;
+}
+.strike{
+    text-decoration: line-through;
+    display: inline-block;
+    margin-left: 3%;
+}
+.price{
+    color:   hsl(158, 36%, 37%);
+    display: inline-block;
+
+}
+.btn {
+    -webkit-border-radius: 9;
+    -moz-border-radius: 9;
+    border-radius: 9px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    background: #397a62;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+    position: relative;
+    left: 2rem;
+  }
+  .top-container{
+    width: 38rem;
+    height: 28.5rem;
+    margin: 15% 15%;
+    background-color: white;
+    border-radius: 15px;
+    margin-left: 400px;
+    margin-right: 400px;
+  }
+  .pokemon{
+    padding: 5%;
+  }
